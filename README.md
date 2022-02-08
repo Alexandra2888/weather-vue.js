@@ -1,6 +1,6 @@
 # weather-vue.js
 
-#You can see live here: https://festive-swanson-1f3753.netlify.app/
+#You can see live here: https://app-weather-vuejs.netlify.app/
 
 ## Project setup
 ```

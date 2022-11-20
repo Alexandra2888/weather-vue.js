@@ -1,6 +1,9 @@
 # weather-vue.js
 
-#You can see live here: https://app-weather-vuejs.netlify.app/
+#You can see live here: 
+https://app-weather-vuejs.netlify.app/
+
+<img src="https://github.com/Alexandra2888/weather-vue.js/blob/main/weather.jpg" alt="weather"
 
 ## Project setup
 ```
